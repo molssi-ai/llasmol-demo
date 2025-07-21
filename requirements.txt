@@ -1,6 +1,6 @@
 accelerate==1.8.1
 apex==0.9.10dev
-datasets==4.0.0
+datasets<4.0.0
 fire==0.7.0
 nltk==3.9.1
 numpy==2.3.1
